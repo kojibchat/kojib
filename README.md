@@ -11,7 +11,6 @@ Here is an overview of Kojib:
 > **Kojib** - Kojib offers complete easy to use decentralized chats. Integrate into any online publishing platform**.** Kojib is a multi user chat room app which includes a wide range of features like unlimited chat rooms, customizer, private chat, avatars, similes, language manager, user profiles, multi-level chat room management radio player and much more.
 >
 > * [Kojib.com](https://kojib.com)
-> * [Source Code](https://github.com/kojibchat/kojib)
 
 > **Kojib Wallet** - Kojib Wallet is a secure, user-friendly online wallet that allows you to store and manage your cryptocurrency in one place. With Kojib.com Wallet, you can easily and safely store, send and receive digital assets, while keeping track of your transactions and balances in real-time. Kojib Wallet also offers an integrated feature that allows you to easily convert between different digital assets. Kojib Wallet is designed with both beginners and experienced traders in mind, and provides a secure and easy to use interface for managing your assets. Kojib Wallet also allows you to easily and securely back up your wallet, and offers a range of security features.&#x20;
 >
@@ -25,28 +24,3 @@ Here is an overview of Kojib:
 > * [Kojib Token Charts & Info](https://app.phi.exchange/info/token/0x1e3c681cef5ee05112187f61d21401310f8eba21)
 > * [Token Source code ](https://github.com/kojibchat/kojibtoken)
 
-## Quick links
-
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
-{% endcontent-ref %}
-
-{% content-ref url="overview/features.md" %}
-[features.md](overview/features.md)
-{% endcontent-ref %}
-
-## Get Started
-
-We've put together some helpful guides for you to get setup with our product quickly and easily.
-
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/getting-set-up/goverance.md" %}
-[goverance.md](fundamentals/getting-set-up/goverance.md)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/getting-set-up/embed-group-chats.md" %}
-[embed-group-chats.md](fundamentals/getting-set-up/embed-group-chats.md)
-{% endcontent-ref %}
